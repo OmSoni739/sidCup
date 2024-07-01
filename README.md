@@ -1,2 +1,2 @@
-# sidCup
+# sidCup UI
 SidCup website
