@@ -1,2 +1,2 @@
 # sidCup UI
-SidCup website
+This is a SidCup Clone website
