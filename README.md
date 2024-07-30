@@ -1,2 +1,2 @@
 # sidCup UI
-This is a SidCup Clone website
+Animation frontend Website with Gsap Javascript library
